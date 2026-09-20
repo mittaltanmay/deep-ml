@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 5 problems · 0 labs · 0 math
+**6** solved · 6 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build an MLP with nn.Sequential](https://www.deep-ml.com/problems/887) | easy | 2026-09-15 | [solution](problems/0887-build-an-mlp-with-nn-sequential) |
 | [Implement Early Stopping Based on Validation Loss](https://www.deep-ml.com/problems/135) | easy | 2026-09-20 | [solution](problems/0135-implement-early-stopping-based-on-validation-loss) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-09-20 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
+| [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-20 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-09-19 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-19 | [solution](problems/0801-polynomial-regression-fit) |
 
