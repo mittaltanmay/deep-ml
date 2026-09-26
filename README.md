@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 8 problems · 0 labs · 0 math
+**9** solved · 9 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-09-19 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-09-23 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-19 | [solution](problems/0801-polynomial-regression-fit) |
+| [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-09-26 | [solution](problems/0353-reconstruction-error-from-pca) |
 
 ---
 
