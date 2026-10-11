@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T14:07:47.556Z",
+  "generated_at": "2026-10-11T14:22:26.417Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -256,6 +256,17 @@
       "path": "math/0025-kl-divergence",
       "first_solved_at": "2026-10-11T14:07:46.468Z",
       "last_pushed_at": "2026-10-11T14:07:46.468Z"
+    },
+    "math:36": {
+      "kind": "math",
+      "id": "36",
+      "title": "Multivariate Gaussians",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/36",
+      "path": "math/0036-multivariate-gaussians",
+      "first_solved_at": "2026-10-11T14:22:25.350Z",
+      "last_pushed_at": "2026-10-11T14:22:25.350Z"
     }
   }
 }
