@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 18 problems · 0 labs · 1 math
+**20** solved · 18 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-09-28 | [solution](math/0042-margins-and-soft-margin-svms) |
+| [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-10-11 | [solution](math/0025-kl-divergence) |
 
 ---
 
