@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T14:22:26.417Z",
+  "generated_at": "2026-10-12T16:59:27.142Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -267,6 +267,19 @@
       "path": "math/0036-multivariate-gaussians",
       "first_solved_at": "2026-10-11T14:22:25.350Z",
       "last_pushed_at": "2026-10-11T14:22:25.350Z"
+    },
+    "problem:305": {
+      "kind": "problem",
+      "id": "305",
+      "title": "Implement Hard Voting Classifier",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/305",
+      "path": "problems/0305-implement-hard-voting-classifier",
+      "first_solved_at": "2026-10-12T16:59:26.121Z",
+      "last_pushed_at": "2026-10-12T16:59:26.121Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
