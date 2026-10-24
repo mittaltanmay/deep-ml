@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 25 problems · 0 labs · 4 math
+**30** solved · 25 problems · 1 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Permutation Feature Importance](https://www.deep-ml.com/problems/812) | medium | 2026-10-08 | [solution](problems/0812-permutation-feature-importance) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-19 | [solution](problems/0801-polynomial-regression-fit) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-09-26 | [solution](problems/0353-reconstruction-error-from-pca) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-10-24 | [solution](labs/0009-design-your-own-activation-function) |
 
 ## Math
 
