@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T11:28:03.467Z",
+  "generated_at": "2026-11-01T11:28:27.830Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -10,7 +10,7 @@
       "url": "https://www.deep-ml.com/problems/887",
       "path": "problems/0887-build-an-mlp-with-nn-sequential",
       "first_solved_at": "2026-09-15T10:48:39.181Z",
-      "last_pushed_at": "2026-09-15T10:48:39.181Z",
+      "last_pushed_at": "2026-11-01T11:28:25.911Z",
       "language": "python",
       "lines": 11
     },
