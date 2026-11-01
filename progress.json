@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T10:48:05.070Z",
+  "generated_at": "2026-11-01T10:53:17.598Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -715,6 +715,19 @@
       "last_pushed_at": "2026-11-01T10:48:02.777Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:87": {
+      "kind": "problem",
+      "id": "87",
+      "title": "Adam Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/87",
+      "path": "problems/0087-adam-optimizer",
+      "first_solved_at": "2026-11-01T10:53:15.445Z",
+      "last_pushed_at": "2026-11-01T10:53:15.445Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
