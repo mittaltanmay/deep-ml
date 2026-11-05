@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T11:28:27.830Z",
+  "generated_at": "2026-11-05T17:03:27.998Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -793,6 +793,19 @@
       "last_pushed_at": "2026-11-01T11:28:01.503Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:886": {
+      "kind": "problem",
+      "id": "886",
+      "title": "Run One Training Step: Forward, Loss, Backward, Optimizer",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/886",
+      "path": "problems/0886-run-one-training-step-forward-loss-backward-optimizer",
+      "first_solved_at": "2026-11-05T17:03:26.573Z",
+      "last_pushed_at": "2026-11-05T17:03:26.573Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
