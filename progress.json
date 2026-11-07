@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T17:27:43.215Z",
+  "generated_at": "2026-11-07T12:56:03.108Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -830,6 +830,19 @@
       "path": "math/0037-taylor-expansions-and-local-quadratic-models",
       "first_solved_at": "2026-11-05T17:27:42.427Z",
       "last_pushed_at": "2026-11-05T17:27:42.427Z"
+    },
+    "problem:151": {
+      "kind": "problem",
+      "id": "151",
+      "title": "Dropout Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/151",
+      "path": "problems/0151-dropout-layer",
+      "first_solved_at": "2026-11-07T12:56:01.679Z",
+      "last_pushed_at": "2026-11-07T12:56:01.679Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
