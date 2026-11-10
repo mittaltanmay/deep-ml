@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**74** solved · 58 problems · 2 labs · 14 math
+**75** solved · 59 problems · 2 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -70,6 +70,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-09-26 | [solution](problems/0353-reconstruction-error-from-pca) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-11-01 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-25 | [solution](problems/1225-two-layer-mlp-forward-pass) |
+| [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-11-10 | [solution](problems/0094-implement-multi-head-attention) |
 
 ## Labs
 
