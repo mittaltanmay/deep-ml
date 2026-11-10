@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**78** solved · 62 problems · 2 labs · 14 math
+**79** solved · 63 problems · 2 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-10-25 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2026-10-31 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-11-01 | [solution](problems/1234-one-sgd-update-step) |
+| [Regex-Based Text Tokenizer](https://www.deep-ml.com/problems/940) | easy | 2026-11-10 | [solution](problems/0940-regex-based-text-tokenizer) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-10-23 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-11-05 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-25 | [solution](problems/1224-single-linear-neuron-forward) |
