@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:12:16.854Z",
+  "generated_at": "2026-11-11T06:32:03.805Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -999,6 +999,19 @@
       "last_pushed_at": "2026-11-10T17:12:16.209Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:941": {
+      "kind": "problem",
+      "id": "941",
+      "title": "Build Vocabulary from Token List",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/941",
+      "path": "problems/0941-build-vocabulary-from-token-list",
+      "first_solved_at": "2026-11-11T06:32:03.682Z",
+      "last_pushed_at": "2026-11-11T06:32:03.682Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
