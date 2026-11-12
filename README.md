@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**91** solved · 75 problems · 2 labs · 14 math
+**92** solved · 76 problems · 2 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adagrad Optimizer](https://www.deep-ml.com/problems/145) | easy | 2026-11-01 | [solution](problems/0145-adagrad-optimizer) |
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-10-23 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Add Positional Embeddings to Token Embeddings](https://www.deep-ml.com/problems/946) | easy | 2026-11-12 | [solution](problems/0946-add-positional-embeddings-to-token-embeddings) |
+| [Apply Dropout to Attention Weights](https://www.deep-ml.com/problems/956) | easy | 2026-11-12 | [solution](problems/0956-apply-dropout-to-attention-weights) |
 | [Backprop a Linear Layer by Hand](https://www.deep-ml.com/problems/898) | easy | 2026-10-26 | [solution](problems/0898-backprop-a-linear-layer-by-hand) |
 | [Balance Dataset via Undersampling](https://www.deep-ml.com/problems/1057) | easy | 2026-10-03 | [solution](problems/1057-balance-dataset-via-undersampling) |
 | [Build a Linear Regression Model with nn.Module](https://www.deep-ml.com/problems/885) | easy | 2026-11-01 | [solution](problems/0885-build-a-linear-regression-model-with-nn-module) |
