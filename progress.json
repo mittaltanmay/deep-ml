@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:20:25.999Z",
+  "generated_at": "2026-11-12T14:21:24.931Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -1179,6 +1179,19 @@
       "path": "problems/0490-build-scaled-dot-product-attention",
       "first_solved_at": "2026-11-12T14:20:25.389Z",
       "last_pushed_at": "2026-11-12T14:20:25.389Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2026-11-12T14:21:24.553Z",
+      "last_pushed_at": "2026-11-12T14:21:24.553Z",
       "language": "python",
       "lines": 25
     }
