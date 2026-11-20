@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**99** solved · 83 problems · 2 labs · 14 math
+**100** solved · 83 problems · 2 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -108,6 +108,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-29 | [solution](math/0009-matrix-basics) |
+| [Sample Averages vs Constant Step Size: Recency Weighting](https://www.deep-ml.com/math-problems/218) | easy | 2026-11-20 | [solution](math/0218-sample-averages-vs-constant-step-size-recency-weighting) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-29 | [solution](math/0007-vector-operations) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-10-25 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-29 | [solution](math/0012-inverse-and-rank) |
