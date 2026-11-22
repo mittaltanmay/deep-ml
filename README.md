@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**102** solved · 84 problems · 2 labs · 16 math
+**103** solved · 85 problems · 2 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -67,6 +67,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-11-10 | [solution](problems/0205-entropy-cross-entropy) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-20 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-09-19 | [solution](problems/0032-generate-sorted-polynomial-features) |
+| [Gradient Bandit Action Selection](https://www.deep-ml.com/problems/163) | medium | 2026-11-22 | [solution](problems/0163-gradient-bandit-action-selection) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-10-02 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-11-14 | [solution](problems/0905-implement-a-transformer-encoder-block) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-11-01 | [solution](problems/0049-implement-adam-optimization-algorithm) |
