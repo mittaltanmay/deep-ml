@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**101** solved · 84 problems · 2 labs · 15 math
+**102** solved · 84 problems · 2 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -112,6 +112,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sample Averages vs Constant Step Size: Recency Weighting](https://www.deep-ml.com/math-problems/218) | easy | 2026-11-20 | [solution](math/0218-sample-averages-vs-constant-step-size-recency-weighting) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-29 | [solution](math/0007-vector-operations) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-10-25 | [solution](math/0004-backpropagation-and-the-chain-rule) |
+| [Gradient Bandits as Stochastic Gradient Ascent](https://www.deep-ml.com/math-problems/219) | medium | 2026-11-22 | [solution](math/0219-gradient-bandits-as-stochastic-gradient-ascent) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-29 | [solution](math/0012-inverse-and-rank) |
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-09-28 | [solution](math/0042-margins-and-soft-margin-svms) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-10-25 | [solution](math/0035-matrix-calculus-identities) |

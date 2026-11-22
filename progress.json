@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:43:02.358Z",
+  "generated_at": "2026-11-22T12:53:27.501Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -1283,6 +1283,17 @@
       "last_pushed_at": "2026-11-22T12:43:00.152Z",
       "language": "python",
       "lines": 37
+    },
+    "math:219": {
+      "kind": "math",
+      "id": "219",
+      "title": "Gradient Bandits as Stochastic Gradient Ascent",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/219",
+      "path": "math/0219-gradient-bandits-as-stochastic-gradient-ascent",
+      "first_solved_at": "2026-11-22T12:53:25.171Z",
+      "last_pushed_at": "2026-11-22T12:53:25.171Z"
     }
   }
 }
