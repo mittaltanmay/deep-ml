@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**103** solved · 85 problems · 2 labs · 16 math
+**104** solved · 85 problems · 2 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -110,6 +110,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-29 | [solution](math/0009-matrix-basics) |
+| [Multi-Armed Bandits: Regret and UCB](https://www.deep-ml.com/math-problems/61) | easy | 2026-11-27 | [solution](math/0061-multi-armed-bandits-regret-and-ucb) |
 | [Sample Averages vs Constant Step Size: Recency Weighting](https://www.deep-ml.com/math-problems/218) | easy | 2026-11-20 | [solution](math/0218-sample-averages-vs-constant-step-size-recency-weighting) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-29 | [solution](math/0007-vector-operations) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-10-25 | [solution](math/0004-backpropagation-and-the-chain-rule) |
