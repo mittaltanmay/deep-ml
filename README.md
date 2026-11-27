@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**104** solved · 85 problems · 2 labs · 17 math
+**105** solved · 86 problems · 2 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -56,6 +56,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sinusoidal Positional Encoding](https://www.deep-ml.com/problems/906) | easy | 2026-11-10 | [solution](problems/0906-sinusoidal-positional-encoding) |
 | [Sliding Window Text Dataset Generator](https://www.deep-ml.com/problems/944) | easy | 2026-11-12 | [solution](problems/0944-sliding-window-text-dataset-generator) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-29 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Upper Confidence Bound (UCB) Action Selection](https://www.deep-ml.com/problems/162) | easy | 2026-11-27 | [solution](problems/0162-upper-confidence-bound-ucb-action-selection) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-11-01 | [solution](problems/0087-adam-optimizer) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-10-25 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-11-12 | [solution](problems/0490-build-scaled-dot-product-attention) |
